@@ -76,6 +76,5 @@
 
 **Keep learning. Keep building. Keep shipping.**
 
-<sub>Designed with a dark neon purple & cyan aesthetic.</sub>
 
 </div>
