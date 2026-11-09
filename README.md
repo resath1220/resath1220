@@ -92,16 +92,19 @@ Building useful tools, powerful bots, modern applications and digital experience
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=resath1220&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=7F00FF&text_color=C9D1D9" alt="GitHub Stats"/>
+<a href="https://github.com/resath1220">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resath1220&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages"/>
+<a href="https://github.com/resath1220?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-7F00FF?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=resath1220&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+<a href="https://github.com/resath1220?tab=followers">
+<img src="https://img.shields.io/github/followers/resath1220?style=for-the-badge&color=0891B2&label=Followers" alt="Followers"/>
+</a>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
@@ -119,8 +122,18 @@ Building useful tools, powerful bots, modern applications and digital experience
 <div align="center">
 
 <a href="https://github.com/resath1220">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-RESATH1220-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<a href="https://www.instagram.com/matrix_risat/">
+<img src="https://img.shields.io/badge/Instagram-MATRIX__RISAT-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.facebook.com/risat1220">
+<img src="https://img.shields.io/badge/Facebook-RISAT1220-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<img src="https://img.shields.io/badge/Discord-resath-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 
 </div>
 
